@@ -18,7 +18,12 @@
   - [사칙연산](baekjoon/01/10869.md)
   - [나머지](baekjoon/01/10430.md)
   - [곱셈](baekjoon/01/2588.md)
-- 2단계 - if문
+- **2단계 - if문**
+  - [두 수 비교하기](baekjoon/02/1330.md)
+  - [시험 성적](baekjoon/02/9498.md)
+  - [윤년](baekjoon/02/2753.md)
+  - [알람시계](baekjoon/02/2884.md)
+  - [세 수](baekjoon/02/10817.md)
 
 <br>
 
