@@ -56,6 +56,14 @@
   <li><a href="baekjoon/04/1110.md">더하기 사이클</a></li>
 </ul>
 </details>
-
+<details>
+<summary><b>5단계 - 1차원 배열</b></summary>
+<ul>
+	<li><a href="baekjoon/05/10818.md">최소, 최대</a></li>
+	<li><a href="baekjoon/05/2562.md">최댓값</a></li>
+	<li><a href="baekjoon/05/2920.md">음계</a></li>
+	<li><a href="baekjoon/05/2577.md">숫자의 개수</a></li>
+</ul>
+</details>
 <br>
 
