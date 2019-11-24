@@ -65,5 +65,14 @@
 	<li><a href="baekjoon/05/2577.md">숫자의 개수</a></li>
 </ul>
 </details>
+<details>
+<summary><b>6단계 - 함수</b></summary>
+<ul>
+	<li><a href="baekjoon/06/15596.md">정수 N개의 합</a></li>
+	<li><a href="baekjoon/06/4673.md">셀프 넘버</a></li>
+	<li><a href="baekjoon/06/1065.md">한수</a></li>
+</ul>
+</details>
+
 <br>
 
