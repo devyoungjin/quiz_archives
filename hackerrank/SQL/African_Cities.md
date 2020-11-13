@@ -1,5 +1,7 @@
 # African Cities
 
+[https://www.hackerrank.com/challenges/african-cities](https://www.hackerrank.com/challenges/african-cities/problem)
+
 Given the **CITY** and **COUNTRY** tables, query the names of all cities where the *CONTINENT* is *'Africa'*. 
 
 **Note:** *CITY.CountryCode* and *COUNTRY.Code* are matching key columns.
